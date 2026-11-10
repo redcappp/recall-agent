@@ -1,0 +1,1 @@
+{"name":"recall-search-agent","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node --env-file-if-exists=.env server.js","test":"node --test"},"engines":{"node":">=22"},"dependencies":{"dompurify":"^3.4.17","express":"^5.1.0","marked":"^18.2.0"}}
